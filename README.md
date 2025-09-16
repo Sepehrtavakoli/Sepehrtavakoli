@@ -50,8 +50,8 @@ I'm [Your Name], a passionate developer who loves to create and collaborate.
   <img width="20" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/matlab/0076A8" height="30" alt="matlab logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
+  <img width="20" />
   <img src="https://cdn.simpleicons.org/maple/%23007ACC" height="30" alt="maple logo"  />
 </div>
 ---
