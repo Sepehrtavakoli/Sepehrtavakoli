@@ -16,6 +16,11 @@ a passionate developer who loves to create and collaborate.
   </a>
 </div>
 
+
+###
+###
+
+
 <div align="center">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
   <img width="12" />
@@ -61,12 +66,7 @@ Currently exploring **AI** and machine learning technologies.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sepehr-tavakoli-5ba9a1354/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 
-## 🌐 Portfolio
-
-Check out my portfolio: [Your Portfolio Website](https://yourwebsite.com)
-
----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Sepehrtavakoli&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
