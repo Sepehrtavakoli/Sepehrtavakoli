@@ -52,7 +52,10 @@ I'm [Your Name], a passionate developer who loves to create and collaborate.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
   <img width="20" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Maplesoft_logo.svg" height="30" alt="maple logo" style="background-color:white;padding:2px;border-radius:4px;"></div>
+<img src="https://cdn.simpleicons.org/latex/008080" height="30" alt="latex logo">
+  <img width="12" />
+ <img src="https://img.shields.io/badge/Maple-007ACC?style=flat&logo=mathworks&logoColor=white" height="30" alt="maple logo">
+</div>
 ---
 
 ## 🤖 AI & Machine Learning
