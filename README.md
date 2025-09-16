@@ -1,18 +1,20 @@
-# Hi there! 👋
+# Hi there, I'm Sepehr!
 
-I'm [Your Name], a passionate developer who loves to create and collaborate.
+a passionate developer who loves to create and collaborate.
 
 ---
 
-## 📊 GitHub Stats
-
-| **Metric** | **Value** |
-|------------|-----------|
-| Total Stars Earned | |
-| Total Commits | 301 |
-| Total Issues | 8 |
-| Contributed to (last year) | 3 |
-
+<div align="center">
+  <a href="https://github.com/SepehrTavakoli">
+    <img src="https://github-readme-stats.vercel.app/api?username=SepehrTavakoli&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="آمار GitHub" />
+  </a>
+  <a href="https://github.com/SepehrTavakoli">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrTavakoli&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="150" alt="زبان‌های برنامه‌نویسی" />
+  </a>
+  <a href="https://github.com/SepehrTavakoli">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SepehrTavakoli&theme=transparent" height="150" alt="فعالیت‌ها" />
+  </a>
+</div>
 ---
 
 ## 🚀 About Me
@@ -56,6 +58,7 @@ I'm [Your Name], a passionate developer who loves to create and collaborate.
   <img width="12" />
  <img src="https://img.shields.io/badge/Maple-007ACC?style=flat&logo=mathworks&logoColor=white" height="30" alt="maple logo">
 </div>
+
 ---
 
 ## 🤖 AI & Machine Learning
