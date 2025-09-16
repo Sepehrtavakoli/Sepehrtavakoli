@@ -1,8 +1,12 @@
-# Hi there, I'm Sepehr!
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=0d74e7&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Sepehr+Tavakoli;Computer+Science+Student;Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
-a passionate developer who loves to create and collaborate.
+###
 
----
+###
 
 <div align="center">
   <a href="https://github.com/SepehrTavakoli">
@@ -32,7 +36,7 @@ a passionate developer who loves to create and collaborate.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo"  />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
   <img width="12" />
  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
   <img width="12" />
