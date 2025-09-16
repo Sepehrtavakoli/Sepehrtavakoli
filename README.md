@@ -6,13 +6,13 @@ a passionate developer who loves to create and collaborate.
 
 <div align="center">
   <a href="https://github.com/SepehrTavakoli">
-    <img src="https://github-readme-stats.vercel.app/api?username=SepehrTavakoli&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="آمار GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SepehrTavakoli&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="100" alt="GitHub Status" />
   </a>
   <a href="https://github.com/SepehrTavakoli">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrTavakoli&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="150" alt="زبان‌های برنامه‌نویسی" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrTavakoli&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="100" alt="Programing languages" />
   </a>
   <a href="https://github.com/SepehrTavakoli">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SepehrTavakoli&theme=transparent" height="150" alt="فعالیت‌ها" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SepehrTavakoli&theme=transparent" height="100" alt="Activities" />
   </a>
 </div>
 ---
