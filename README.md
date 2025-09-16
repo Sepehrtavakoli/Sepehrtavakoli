@@ -52,8 +52,7 @@ I'm [Your Name], a passionate developer who loves to create and collaborate.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/maple/%23007ACC" height="30" alt="maple logo"  />
-</div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Maplesoft_logo.svg" height="30" alt="maple logo" style="background-color:white;padding:2px;border-radius:4px;"></div>
 ---
 
 ## 🤖 AI & Machine Learning
