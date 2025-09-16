@@ -1,7 +1,16 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=0d74e7&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Sepehr+Tavakoli;Computer+Science+Student;Open+Source+Enthusiast" alt="Typing SVG" />
-  </a>
+  <div style="display: flex; justify-content: center;">
+    <a href="https://git.io/typing-svg" style="width: 100%; max-width: 435px; padding-bottom: 0px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=0D47A1&center=true&vCenter=true&width=435&lines=Hi+There+I'm+Sepehr" alt="Typing SVG" style="width: 89%;" />
+    </a>
+  </div>
+</div>
+<div align="center">
+  <div style="display: flex; justify-content: center;">
+    <a href="https://git.io/typing-svg" style="width: 100%; max-width: 435px; padding-bottom: 0px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=64748B&center=true&vCenter=true&width=900&lines=CS+Student+in+SBU+University" alt="Typing SVG 2" style="width: 89%;" />
+    </a>
+  </div>
 </div>
 
 ###
@@ -63,7 +72,6 @@
 ## 🤖 AI & Machine Learning
 
 Currently exploring **AI** and machine learning technologies.
-
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sepehrtavakoli0584@gmail.com)
