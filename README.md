@@ -15,15 +15,6 @@ a passionate developer who loves to create and collaborate.
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SepehrTavakoli&theme=transparent" height="95" alt="Activities" />
   </a>
 </div>
----
-
-## 🚀 About Me
-
-- **17 Public Repositories**
-- Joined GitHub 2 years ago
-- Computer Science Student at SBU University
-
----
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
@@ -59,21 +50,16 @@ a passionate developer who loves to create and collaborate.
  <img src="https://img.shields.io/badge/Maple-007ACC?style=flat&logo=mathworks&logoColor=white" height="30" alt="maple logo">
 </div>
 
----
 
 ## 🤖 AI & Machine Learning
 
 Currently exploring **AI** and machine learning technologies.
 
----
-
-## 📫 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sepehrtavakoli0584@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sepehr-tavakoli-5ba9a1354/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
----
 
 ## 🌐 Portfolio
 
