@@ -28,7 +28,7 @@ I'm [Your Name], a passionate developer who loves to create and collaborate.
   <img width="12" />
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/csharp/239120" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo">
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
   <img width="12" />
